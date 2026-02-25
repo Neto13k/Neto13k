@@ -21,12 +21,24 @@
 
 ---
 
+## 📌 Projetos em destaque
+
+🔢 Calculator JS  
+https://github.com/Neto13k/calculator-js  
+Calculadora web com interface interativa e histórico de operações.
+
+📝 Blog Project  
+https://github.com/Neto13k/blog-project-  
+Blog dinâmico com renderização de posts e filtro por categoria.
+
+---
+
 ## 📌 Sobre mim
 
-- Desenvolvendo projetos práticos com JavaScript e TypeScript
-- Estudando desenvolvimento backend com Node.js
-- Criando interfaces com React
-- Evoluindo em lógica, tipagem forte e boas práticas
+- Desenvolvendo projetos práticos com JavaScript e TypeScript  
+- Estudando desenvolvimento backend com Node.js  
+- Criando interfaces com React  
+- Evoluindo em lógica, tipagem forte e boas práticas  
 
 ---
 
