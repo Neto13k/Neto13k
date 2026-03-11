@@ -31,6 +31,10 @@ Calculadora web com interface interativa e histórico de operações.
 https://github.com/Neto13k/blog-project-  
 Blog dinâmico com renderização de posts e filtro por categoria.
 
+🌍 World Time App
+https://github.com/Neto13k/world-time-app
+Aplicação focada em fornecer horários globais em tempo real, utilizando integração com APIs externas e manipulação dinâmica de interface.
+
 ---
 
 ## 📌 Sobre mim
