@@ -55,7 +55,7 @@ Conquistar minha primeira oportunidade como desenvolvedor e aplicar meus conheci
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jose-hermes-230200317">
+  <a href="https://www.linkedin.com/in/jose-hermes-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
