@@ -43,7 +43,7 @@
 
 > Sistema dinâmico para leitura de posts com filtros inteligentes por categoria.
 
-* **Techs:** `React` `Node.js` `Styled Components`
+* **Techs:** `JavaScript` `CSS3` `HTML5`
 * [🚀 Ver Demonstração](https://github.com/Neto13k/blog-project-)
 
 ---
