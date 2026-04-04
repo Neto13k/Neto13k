@@ -55,14 +55,12 @@ alimentada por documentações oficiais — do SQL ao React.
 ### 🌍 [World Time App](https://github.com/Neto13k/world-time-app)  
 Aplicação de fuso horário global consumindo APIs externas em tempo real.  
 - **Techs:** `TypeScript` `REST API` `DOM Manipulation`  
-- [🚀 Ver Projeto Online](https://github.com/Neto13k/world-time-app)  
 
 ---
 
 ### 🔢 [Calculator JS](https://github.com/Neto13k/calculator-js)  
 Calculadora interativa com histórico de operações e design responsivo.  
 - **Techs:** `JavaScript` `CSS3` `HTML5`  
-- [🚀 Ver Projeto Online](https://neto13k.github.io/calculator-js/)  
 
 ---
 
