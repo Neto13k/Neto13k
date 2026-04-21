@@ -44,29 +44,47 @@ with a focus on writing code I truly understand — not just code that works.
 
 ## 📌 Projetos em Destaque
 
-### 🧠 [Dev Knowledge Hub](https://github.com/Neto13k/dev-knowledge-hub)  
+### 🌿 [EcoTrip Impact Simulator](https://github.com/Neto13k/ecotrip-impact-simulator) — [🔗 Demo](https://neto13k.github.io/ecotrip-impact-simulator/)
+
+Calculadora web de emissão de carbono que calcula o impacto ambiental de uma viagem,  
+compara diferentes meios de transporte e estima os créditos de carbono necessários para compensar a emissão.
+
+- **Funcionalidades:** Seleção de rota com autopreenchimento, cálculo automático de distância, 4 modos de transporte, comparativo visual com barras de progresso, estimativa de créditos de carbono em BRL
+- **Techs:** `HTML5` `CSS3` `JavaScript ES6+` `GitHub Copilot`
+
+---
+
+### 🧠 [Dev Knowledge Hub](https://github.com/Neto13k/dev-knowledge-hub)
+
 Base de conhecimento Fullstack com busca semântica via NotebookLM,  
-alimentada por documentações oficiais — do SQL ao React.  
-- **Stacks cobertas:** `JavaScript` `TypeScript` `React` `Node.js` `SQL` `JWT`  
-- **Metodologia:** IA como camada de busca sobre documentação oficial  
+alimentada por documentações oficiais — do SQL ao React.
+
+- **Stacks cobertas:** `JavaScript` `TypeScript` `React` `Node.js` `SQL` `JWT`
+- **Metodologia:** IA como camada de busca sobre documentação oficial
 
 ---
 
-### 🌍 [World Time App](https://github.com/Neto13k/world-time-app)  
-Aplicação de fuso horário global consumindo APIs externas em tempo real.  
-- **Techs:** `TypeScript` `REST API` `DOM Manipulation`  
+### 🌍 [World Time App](https://github.com/Neto13k/world-time-app) — [🔗 Demo](https://neto13k.github.io/world-time-app/)
+
+Aplicação de fuso horário global consumindo APIs externas em tempo real.
+
+- **Techs:** `TypeScript` `REST API` `DOM Manipulation`
 
 ---
 
-### 🔢 [Calculator JS](https://github.com/Neto13k/calculator-js)  
-Calculadora interativa com histórico de operações e design responsivo.  
-- **Techs:** `JavaScript` `CSS3` `HTML5`  
+### 🔢 [Calculator JS](https://github.com/Neto13k/calculator-js) — [🔗 Demo](https://neto13k.github.io/calculator-js/)
+
+Calculadora interativa com histórico de operações e design responsivo.
+
+- **Techs:** `JavaScript` `CSS3` `HTML5`
 
 ---
 
-### 📝 [Blog Project](https://github.com/Neto13k/blog-project-)  
-Sistema dinâmico para leitura de posts com filtros por categoria.  
-- **Techs:** `JavaScript` `CSS3` `HTML5`  
+### 📝 [Blog Project](https://github.com/Neto13k/blog-project-) — [🔗 Demo](https://neto13k.github.io/blog-project-/)
+
+Sistema dinâmico para leitura de posts com filtros por categoria.
+
+- **Techs:** `JavaScript` `CSS3` `HTML5`
 
 ---
 
