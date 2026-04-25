@@ -44,6 +44,15 @@ with a focus on writing code I truly understand — not just code that works.
 
 ## 📌 Projetos em Destaque
 
+### 💈 [BarberSync](https://github.com/Neto13k/barber-sync)
+
+Sistema fullstack de agendamento para barbearias baseado em um fluxo de solicitação e decisão: o cliente solicita um horário e o barbeiro avalia (aceita ou recusa), garantindo controle da agenda e evitando conflitos de atendimento.
+
+- **Funcionalidades:** Cadastro e autenticação de usuários, controle de acesso por perfil (cliente/barbeiro), criação, aprovação e recusa de agendamentos, validação de dados, proteção de rotas, testes de integração
+- **Regras de negócio:** Um horário não pode ser reservado por múltiplos clientes, apenas barbeiros podem aprovar ou recusar solicitações, usuários acessam apenas recursos permitidos pelo seu papel, integridade garantida com constraints no banco
+- **Techs:** `React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `Jest` `Supertest`     
+---
+
 ### 🌿 [EcoTrip Impact Simulator](https://github.com/Neto13k/ecotrip-impact-simulator) — [🔗 Demo](https://neto13k.github.io/ecotrip-impact-simulator/)
 
 Calculadora web de emissão de carbono que calcula o impacto ambiental de uma viagem,  
