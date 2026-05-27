@@ -44,13 +44,34 @@ with a focus on writing code I truly understand — not just code that works.
 
 ## 📌 Projetos em Destaque
 
+### 📰 [News Hub System](https://github.com/Neto13k/news-hub-system)
+
+Portal de notícias fullstack com autenticação JWT, integração com GNews API e dark/light mode. Usuários autenticados acessam notícias em tempo real e podem publicar posts na comunidade.
+
+- **Funcionalidades:** Cadastro e autenticação com JWT, integração com GNews API para notícias em tempo real, criação e listagem de posts da comunidade, dark/light mode com persistência, navbar dinâmica com controle de acesso, proteção de rotas para usuários não autenticados
+- **Regras de negócio:** Apenas usuários autenticados acessam posts e notícias, token JWT com expiração de 1h, senhas com hash bcrypt, queries parametrizadas contra SQL Injection
+- **Techs:** `React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `GNews API`
+
+---
+
 ### 💈 [BarberSync](https://github.com/Neto13k/barber-sync)
 
 Sistema fullstack de agendamento para barbearias baseado em um fluxo de solicitação e decisão: o cliente solicita um horário e o barbeiro avalia (aceita ou recusa), garantindo controle da agenda e evitando conflitos de atendimento.
 
 - **Funcionalidades:** Cadastro e autenticação de usuários, controle de acesso por perfil (cliente/barbeiro), criação, aprovação e recusa de agendamentos, validação de dados, proteção de rotas, testes de integração
 - **Regras de negócio:** Um horário não pode ser reservado por múltiplos clientes, apenas barbeiros podem aprovar ou recusar solicitações, usuários acessam apenas recursos permitidos pelo seu papel, integridade garantida com constraints no banco
-- **Techs:** `React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `Jest` `Supertest`     
+- **Techs:** `React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `Jest` `Supertest`
+
+---
+
+### 🤖 [Trello Process Bot](https://github.com/Neto13k/trello-process-bot)
+
+Agente de IA conversacional integrado ao Trello, desenvolvido com Google ADK e Gemini 2.5 Flash. O usuário descreve o que precisa fazer em linguagem natural e o agente interpreta, prioriza e executa as ações diretamente no board — sem necessidade de acessar a interface manualmente.
+
+- **Funcionalidades:** Criação de cards com nome, descrição e data de vencimento, listagem de tarefas por status, movimentação de cards entre listas, contexto temporal automático, priorização inteligente (baixa, média, alta, urgente)
+- **Observação:** Correção automática do bug de datas D-1 do Trello implementada no agente
+- **Techs:** `Python` `Google ADK` `Gemini 2.5 Flash` `Trello API` `py-trello` `python-dotenv`
+
 ---
 
 ### 🌿 [EcoTrip Impact Simulator](https://github.com/Neto13k/ecotrip-impact-simulator) — [🔗 Demo](https://neto13k.github.io/ecotrip-impact-simulator/)
