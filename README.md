@@ -7,7 +7,7 @@
 # 👋 José Neto
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,html,css,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,html,css,git,vscode,postman,aws" />
   <br/>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | 📍 Maceió, AL - Brasil
 </p>
