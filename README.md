@@ -154,7 +154,7 @@ Atualmente cursando ADS e explorando desenvolvimento de agentes de IA com Google
 
 <div align="center">
 
-Buscando vaga de **Estágio ou Desenvolvedor Júnior** em fullstack ou backend.
+Buscando vaga de **Estágio ou Desenvolvedor Júnior** em fullstack ou Front-end.
 
 📩 [jose.hermes.dev@gmail.com](mailto:jose.hermes.dev@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/jose-hermes-dev](https://www.linkedin.com/in/jose-hermes-dev/)
 
