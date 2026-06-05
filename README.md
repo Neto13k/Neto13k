@@ -1,195 +1,161 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+José+Neto;Desenvolvedor+Fullstack;Node.js+%7C+React+%7C+TypeScript" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jose-hermes-dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:jose.hermes.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/josenetto13k" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+# José Neto
+
+### Desenvolvedor Fullstack
+
+Node.js · React · TypeScript · PostgreSQL
+
+📍 Maceió, AL — Brasil &nbsp;·&nbsp; Disponível para trabalho remoto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--hermes--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hermes-dev/)
+[![Email](https://img.shields.io/badge/Email-jose.hermes.dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jose.hermes.dev@gmail.com)
+
+</div>
 
 ---
 
-## Sobre mim
+Desenvolvedor Fullstack em transição de carreira com **6 anos de experiência em operações corporativas** — fintech, e-commerce, telecom e seguros. Construo aplicações web com Node.js, React e TypeScript, com foco em autenticação segura, integridade de dados e cobertura de testes.
 
-Desenvolvedor Fullstack construindo aplicações com Node.js, React e TypeScript.
-
-Tenho interesse em desenvolvimento de software, arquitetura de aplicações, bancos de dados e inteligência artificial, buscando criar soluções que resolvam problemas reais através da tecnologia.
-
-📍 Maceió, AL — Brasil &nbsp;|&nbsp; 🎓 Análise e Desenvolvimento de Sistemas
+Atualmente cursando ADS e explorando desenvolvimento de agentes de IA com Google ADK e infraestrutura cloud na AWS.
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack
 
 **Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,scss,vite" />
 </p>
 
 **Backend**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,jest" />
 </p>
 
-**IA & Automação**
+**IA & Agentes**
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp;<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/Gemini%202.5-8E24AA?style=flat&logo=google&logoColor=white" />
 </p>
 
-**Versionamento**
+**Ferramentas**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
-**Ferramentas & Ambiente**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,windows" />
-</p>
+**Aprendendo**
 
-## 📚 Atualmente Aprendendo 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projetos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neto13k&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+### [BarberSync](https://github.com/Neto13k/barber-sync) — Sistema de agendamento para barbearias
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neto13k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neto13k&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neto13k&theme=tokyonight&hide_border=true" />
-</p>
+> Aplicação fullstack com painéis separados para cliente e barbeiro, controle de acesso por perfil e lógica de reserva sem conflitos.
 
----
-
-## 📌 Projetos em Destaque
----
-
-### 📰 [News Hub System](https://github.com/Neto13k/news-hub-system)
-
-> Portal de notícias fullstack com autenticação JWT, integração com GNews API e dark/light mode.
-
-**O problema resolvido:** centralizar notícias em tempo real com acesso controlado — apenas usuários autenticados publicam e consomem conteúdo da comunidade.
-
-**Decisões técnicas relevantes:**
-- Token JWT com expiração de 1h + hash bcrypt nas senhas
-- Queries parametrizadas contra SQL Injection
-- Proteção de rotas e navbar dinâmica por estado de autenticação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres" />
-</p>
-
-`React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `GNews API`
-
----
-
-### 💈 [BarberSync](https://github.com/Neto13k/barber-sync)
-
-> Sistema fullstack de agendamento para barbearias baseado em fluxo de solicitação e decisão.
-
-**O problema resolvido:** conflitos de agenda em barbearias. O cliente solicita um horário; o barbeiro aceita ou recusa — nenhum horário pode ser reservado por múltiplos clientes.
-
-**Decisões técnicas relevantes:**
-- Controle de acesso por perfil (cliente/barbeiro) com JWT
-- Constraints no banco garantindo integridade dos agendamentos
-- Testes de integração com Jest + Supertest cobrindo os endpoints críticos
+- Autenticação JWT com separação de permissões por perfil (cliente / barbeiro)
+- Validação de conflito de horário no backend antes da inserção no banco
+- Testes de integração com Jest + Supertest cobrindo os fluxos críticos de autenticação e agendamento
+- Interface responsiva adaptada para mobile e desktop em ambos os painéis
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,jest" />
 </p>
 
-`React 19` `TypeScript` `React Router 7` `Node.js` `Express 5` `PostgreSQL` `JWT` `SCSS` `Jest` `Supertest`
+`React 19` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `JWT` `Jest` `Supertest` `SCSS`
 
 ---
 
-### 🤖 [Trello Process Bot](https://github.com/Neto13k/trello-process-bot)
+### [News Hub System](https://github.com/Neto13k/news-hub-system) — Portal de notícias fullstack
 
-> Agente de IA conversacional integrado ao Trello via Google ADK e Gemini 2.5 Flash.
+> Portal com autenticação, agregação de notícias em tempo real via GNews API e persistência de preferências de tema.
 
-**O problema resolvido:** gerenciar o Trello em linguagem natural, sem abrir a interface. O agente interpreta, prioriza e executa ações diretamente no board.
+- Rotas protegidas com JWT no frontend e validação de token no backend
+- Queries parametrizadas eliminando vetores de SQL Injection
+- Integração com GNews API com filtro por categoria e paginação
+- Persistência de preferência dark/light mode via localStorage entre sessões
 
-**Detalhe técnico:** correção do bug nativo de datas D-1 do Trello implementada diretamente no agente.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres" />
+</p>
+
+`React 19` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `JWT` `React Hook Form` `SCSS`
+
+---
+
+### [Trello Process Bot](https://github.com/Neto13k/trello-process-bot) — Agente de IA para gestão de tarefas
+
+> Agente conversacional que gerencia boards do Trello via linguagem natural, desenvolvido durante bootcamp na DIO.
+
+- Criação, movimentação e priorização de cards por comandos em linguagem natural
+- Gemini 2.5 Flash interpretando intenções e mapeando ações para a API do Trello
+- Correção do bug nativo de datas D-1 da API do Trello implementada diretamente no agente
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Python` `Google ADK` `Gemini 2.5 Flash` `Trello API` `py-trello` `python-dotenv`
+`Python` `Google ADK` `Gemini 2.5 Flash` `Trello API`
 
 ---
 
-## 🚀 Projetos Complementares
+### [EcoTrip Impact Simulator](https://neto13k.github.io/ecotrip-impact-simulator/) — Calculadora de carbono
 
-### 🌿 [EcoTrip Impact Simulator](https://github.com/Neto13k/ecotrip-impact-simulator)
-
-> Calculadora de emissão de carbono por modal de transporte com estimativa de créditos de carbono em BRL.
+> Calculadora de emissão de carbono por modal de transporte com estimativa de créditos em BRL.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-🔗 **Demo:** https://neto13k.github.io/ecotrip-impact-simulator/
+🔗 [Demo ao vivo](https://neto13k.github.io/ecotrip-impact-simulator/)
 
 ---
 
-### 🌍 [World Time App](https://github.com/Neto13k/world-time-app)
+## 💼 Experiência Profissional
 
-> Aplicação de consulta de fusos horários globais utilizando APIs externas em tempo real.
+**Representante de Atendimento — Operações Digitais · Almaviva Experience** *(Jul 2019 – Presente)*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js" />
-</p>
+6 anos em operações de alta demanda com foco em decisão ágil, gestão de dados e resolução de problemas complexos:
 
-🔗 **Demo:** https://neto13k.github.io/world-time-app/
-
----
-
-### 🔢 [Calculator JS](https://github.com/Neto13k/calculator-js)
-
-> Calculadora responsiva com histórico de operações e persistência de dados.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,css,html" />
-</p>
-
-🔗 **Demo:** https://neto13k.github.io/calculator-js/
+- **Brazino777 (Fev 2025 – presente):** Integrei Microsoft Copilot ao fluxo de atendimento para padronizar respostas e reduzir retrabalho em operação 24/7
+- **Sompo Seguros & HDI Seguros (Mar 2023 – Jan 2025):** Gestão de pipeline de tickets em CRM com foco em SLA e resolução no primeiro contato
+- **Shopee (Out 2021 – Fev 2023):** Operação simultânea em 3 canais (chat, e-mail, formulário) com decisões baseadas em dados de pedido
+- **Vivo — Telecom (Jul 2019 – Set 2021):** Diagnóstico técnico de conectividade e retenção de clientes dentro da meta mensal de churn
 
 ---
 
-### 📝 [Blog Project](https://github.com/Neto13k/blog-project-)
+## 🎓 Formação & Certificações
 
-> Sistema de leitura de posts com filtros por categorias e navegação dinâmica.
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** · UniFatecie *(Jan 2026 – em andamento)*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,css,html" />
-</p>
+**Desenvolvimento Full Stack** · StackX *(2025 – em andamento)*
 
-🔗 **Demo:** https://neto13k.github.io/blog-project-/
+**Certificações:**
+
+| Curso | Instituição | Ano |
+|---|---|---|
+| Do Prompt ao Agente (Google ADK) | DIO | 2026 |
+| Ferramentas de IA do Google | UniFatecie | 2026 |
+| Fundamentos da Inteligência Artificial | UniFatecie | 2026 |
+| Ferramentas de IA da OpenAI | UniFatecie | 2026 |
+| Ética na Era da IA | Fundação Bradesco | 2026 |
 
 ---
 
-## 🎯 Objetivo
+<div align="center">
 
-Buscando oportunidades como Estagiário de Desenvolvimento ou Desenvolvedor Fullstack Júnior, contribuindo na construção de aplicações web e ampliando minha experiência em desenvolvimento de software.
----
+Buscando vaga de **Estágio ou Desenvolvedor Júnior** em fullstack ou backend.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" alt="Footer Wave" />
-</p>
+📩 [jose.hermes.dev@gmail.com](mailto:jose.hermes.dev@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/jose-hermes-dev](https://www.linkedin.com/in/jose-hermes-dev/)
+
+</div>
