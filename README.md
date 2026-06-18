@@ -33,7 +33,7 @@ Desenvolvedor Fullstack com portfólio de aplicações funcionais em produção 
 Construo aplicações com Node.js, React e TypeScript com foco em autenticação segura, integridade de dados e cobertura de testes. Atualmente expandindo para agentes de IA com Google ADK e infraestrutura AWS.
 
 ```
-Autenticação JWT  ·  Testes de integração (Jest/Supertest)  ·  AI Agents  ·  REST APIs  ·  PostgreSQL
+Validação com Joi  ·  Autenticação JWT  ·  Testes de integração (Jest/Supertest)  ·  AI Agents  ·  REST APIs  ·  PostgreSQL  ·  Arquitetura MVC
 ```
 
 ---
@@ -58,17 +58,34 @@ Autenticação JWT  ·  Testes de integração (Jest/Supertest)  ·  AI Agents  
 
 ---
 
-### [BarberSync](https://github.com/Neto13k/barber-sync) — Sistema de agendamento para barbearias
+### [BarberSync](https://github.com/Neto13k/barber-sync) — Sistema fullstack de agendamento para barbearias
 
-> Aplicação fullstack com painéis separados para cliente e barbeiro, controle de acesso por perfil e lógica de reserva sem conflitos de horário.
+> Aplicação fullstack profissional com painéis separados para cliente e barbeiro, controle de acesso por perfil, validação robusta com Joi e arquitetura MVC escalável.
 
+**Arquitetura & Qualidade de Código:**
+- ✅ Arquitetura MVC com Controllers, Routes, Middlewares, Validators centralizados
+- ✅ Validação de entrada com **Joi** (schemas para users e appointments)
+- ✅ Middleware de validação customizado com tratamento de erros estruturado
+- ✅ Tratamento global de erros centralizado (errorHandler middleware)
+- ✅ AsyncHandler para eliminação de try/catch repetidos
+- ✅ Clean Code com separação clara de responsabilidades
+
+**Funcionalidades:**
 - JWT com separação de permissões por perfil (cliente / barbeiro) em rotas protegidas
-- Validação de conflito de horário no backend antes da inserção no banco, sem depender de constraint único
-- Suíte de testes de integração com Jest + Supertest cobrindo autenticação e agendamento — ~30 casos de teste
+- Validação de conflito de horário no backend antes da inserção no banco
+- Validação de data retroativa com mensagens de erro amigáveis
+- Autenticação com bcrypt (10 rounds) para hash seguro de senhas
+- Queries parametrizadas eliminando vetores de SQL Injection
+
+**Testes & Documentação:**
+- Suíte de testes de integração com Jest + Supertest (~30 casos de teste)
+- Cobertura de fluxos críticos: autenticação, agendamento, autorização por role
+- README profissional com API documentation, diagrama ER e instruções passo a passo
+- Commits com padrão conventional commits
 
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,jest" height="28"/>
 
-`React 19` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `JWT` `Jest` `Supertest` `SCSS`
+`React 19` `TypeScript` `Node.js` `Express 5` `PostgreSQL` `JWT` `Bcrypt` `Joi` `Jest` `Supertest` `SCSS` `MVC`
 
 ---
 
@@ -112,22 +129,22 @@ Git · GitHub · Postman · Vite · HTML · CSS/SCSS
 <tr>
 <td valign="top">
 
-**IA & Agentes**
+**Backend & Validação**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python" height="28"/>
+<img src="https://img.shields.io/badge/Joi-5A0A7E?style=flat&logo=npm&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Gemini-8E24AA?style=flat&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bcrypt-2C3E50?style=flat"/>
 
 </td>
 <td valign="top">
 
-**Em aprendizado ativo**
+**IA & Agentes + Cloud**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws" height="28"/>
-<br/><br/>
-AWS: EC2 · S3 · IAM · CloudFormation · Step Functions
+<img src="https://skillicons.dev/icons?i=python,aws" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white"/>
 
 </td>
 </tr>
