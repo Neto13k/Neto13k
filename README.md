@@ -91,6 +91,8 @@ Validação com Joi  ·  Autenticação JWT  ·  Testes de integração (Jest/Su
 
 ### [News Hub System](https://github.com/Neto13k/news-hub-system) — Portal de notícias fullstack
 
+[![🔴 Live](https://img.shields.io/badge/🔴%20Live-news--hub--system.vercel.app-orange?style=flat)](https://news-hub-system.vercel.app) &nbsp; ![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=flat&logo=vercel&logoColor=white) &nbsp; ![Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat&logo=render&logoColor=black) &nbsp; ![Neon](https://img.shields.io/badge/DB-Neon-00E599?style=flat&logo=postgresql&logoColor=black)
+
 > Portal com autenticação, agregação de notícias em tempo real via GNews API e persistência de preferências entre sessões.
 
 - Rotas protegidas com JWT no frontend + validação no backend em cada request
@@ -111,18 +113,22 @@ Validação com Joi  ·  Autenticação JWT  ·  Testes de integração (Jest/Su
 
 **Uso frequente**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,jest" height="28"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,jest,html,css" height="28"/>
 <br/><br/>
-TypeScript · React · Node.js · Express · PostgreSQL · Jest
+TypeScript · React · Node.js · Express · PostgreSQL · Jest · HTML · CSS/SCSS
 
 </td>
 <td valign="top" width="50%">
 
 **Ferramentas e ecossistema**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vite,html,css" height="28"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vite,vercel" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=postgresql&logoColor=black"/>
 <br/><br/>
-Git · GitHub · Postman · Vite · HTML · CSS/SCSS
+Git · GitHub · Postman · Vite · Vercel · Render · Neon
 
 </td>
 </tr>
