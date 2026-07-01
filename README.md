@@ -60,6 +60,8 @@ Validação com Joi  ·  Autenticação JWT  ·  Testes de integração (Jest/Su
 
 ### [BarberSync](https://github.com/Neto13k/barber-sync) — Sistema fullstack de agendamento para barbearias
 
+[![🔴 Live](https://img.shields.io/badge/🔴%20Live-barber--sync--nu.vercel.app-orange?style=flat)](https://barber-sync-nu.vercel.app/) &nbsp; ![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=flat&logo=vercel&logoColor=white) &nbsp; ![Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat&logo=render&logoColor=black) &nbsp; ![Neon](https://img.shields.io/badge/DB-Neon-00E599?style=flat&logo=postgresql&logoColor=black)
+
 > Aplicação fullstack profissional com painéis separados para cliente e barbeiro, controle de acesso por perfil, validação robusta com Joi e arquitetura MVC escalável.
 
 **Arquitetura & Qualidade de Código:**
@@ -195,9 +197,9 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Neto13k&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="./profile/stats.svg"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto13k&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="160" src="./profile/top-langs.svg"/>
 
 </div>
 
