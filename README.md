@@ -28,9 +28,9 @@
 
 ## Sobre
 
-Desenvolvedor Fullstack com portfólio de aplicações funcionais em produção e **6 anos de experiência em operações corporativas de alto volume** — fintech, e-commerce, telecom e seguros — o que me dá uma leitura prática de produto, SLA e impacto real de bugs em usuário final.
+Desenvolvedor Fullstack com portfólio de aplicações funcionais em produção e **7 anos de experiência em operações corporativas de alto volume** — fintech, e-commerce, telecom e seguros — o que me dá uma leitura prática de produto, SLA e impacto real de bugs em usuário final.
 
-Construo aplicações com Node.js, React e TypeScript com foco em autenticação segura, integridade de dados e cobertura de testes. Atualmente expandindo para agentes de IA com Google ADK e infraestrutura AWS.
+Construo aplicações com Node.js, React e TypeScript com foco em autenticação segura, integridade de dados e cobertura de testes. Atualmente expandindo para agentes de IA com Google ADK, com estudos em andamento em cloud (AWS).
 
 ```
 Validação com Joi  ·  Autenticação JWT  ·  Testes de integração (Jest/Supertest)  ·  AI Agents  ·  REST APIs  ·  PostgreSQL  ·  Arquitetura MVC
@@ -148,7 +148,7 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 </td>
 <td valign="top">
 
-**IA & Agentes + Cloud**
+**IA & Agentes + Cloud (em estudo)**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=python,aws" height="28"/>
 &nbsp;
@@ -164,7 +164,7 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 
 **Representante de Atendimento — Operações Digitais · Almaviva Experience** *(Jul 2019 – Presente)*
 
-6 anos em operações corporativas de alto volume com múltiplos clientes e stacks de CRM:
+7 anos em operações corporativas de alto volume com múltiplos clientes e stacks de CRM:
 
 | Operação | Período | Contexto técnico |
 |---|---|---|
@@ -180,7 +180,7 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 | Curso | Instituição | Status |
 |---|---|---|
 | Tecnólogo em ADS | UniFatecie | Jan 2026 – em andamento |
-| Desenvolvimento Full Stack | StackX | 2025 – em andamento |
+| Desenvolvimento Full Stack | StackX | 2025 – em conclusão |
 
 **Certificações técnicas relevantes:**
 
@@ -197,9 +197,9 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 
 <div align="center">
 
-<img height="160" src="./profile/stats.svg"/>
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Neto13k&show_icons=true&theme=tokyonight&hide_border=true"/>
 &nbsp;&nbsp;
-<img height="160" src="./profile/top-langs.svg"/>
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Neto13k&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
