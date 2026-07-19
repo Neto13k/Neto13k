@@ -186,10 +186,14 @@ Git · GitHub · Postman · Vite · Vercel · Render · Neon
 
 | Certificação | Instituição | Ano |
 |---|---|---|
+| AI React Front-end | DIO | 2026 |
 | Do Prompt ao Agente (Google ADK) | DIO | 2026 |
 | Fundamentos de Cloud com AWS | DIO | 2026 |
 | Ferramentas de IA do Google | UniFatecie | 2026 |
+| Ferramentas de IA da OpenAI | UniFatecie | 2026 |
 | Fundamentos de Inteligência Artificial | UniFatecie | 2026 |
+| Ética na Era da IA | Fundação Bradesco | 2026 |
+| Atendimento ao Público / Customer Support | Fundação Bradesco | 2025 |
 
 ---
 
